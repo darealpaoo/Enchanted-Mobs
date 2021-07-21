@@ -6,6 +6,6 @@ This [Enchanted-Mobs](https://github.com/darealpaoo/Enchanted-Mobs) included [An
 
  - Required: Optifine 1.16.3+
 
- - Current Version: 1.0
+ - Current Version: 1.0-release
 
 ![Image Preview](https://raw.githubusercontent.com/darealpaoo/Enchanted-Mobs/main/preview.png)
